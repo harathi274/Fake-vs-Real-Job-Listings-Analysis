@@ -1,4 +1,6 @@
-# Job Fraud Detection Analysis
+# Fake vs Real Job Listings Analysis
+
+A beginner-friendly data analysis project to identify patterns in fake and real job postings.
 
 ## 📸 Project Preview
 ![Project Screenshot](project_screenshot.png)
