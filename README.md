@@ -26,6 +26,7 @@ This project analyzes job postings to identify patterns that distinguish fake an
 ## 📁 Files Included
 - Excel analysis file
 - PDF report
-- Project screenshot
+- Project_screenshot.png
+
 ## 🎯 Conclusion
 This project highlights how simple data analysis can help identify fraudulent job postings and improve awareness among job seekers.
