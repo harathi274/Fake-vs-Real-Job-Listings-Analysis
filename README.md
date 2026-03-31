@@ -49,6 +49,9 @@ This project highlights how simple data analysis can help identify fraudulent jo
 ## 🎯 Impact
 This project helps job seekers identify potential job scams using simple data-driven insights.
 
+## 🔗 Connect with me
+[LinkedIn Profile](https://www.linkedin.com/in/sana-harathi-5b2881292)
+
 ## 📌 Future Scope
 - Build a web app for real-time job fraud detection
 - Use machine learning for automated classification
